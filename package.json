@@ -1,0 +1,19 @@
+{
+  "name": "iota",
+  "version": "0.0.0",
+  "description": "A super-simple integer iteration function",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UmbraEngineering/iota.git"
+  },
+  "keywords": [
+    "iota",
+    "iterator"
+  ],
+  "author": "James Brumond",
+  "license": "MIT"
+}
